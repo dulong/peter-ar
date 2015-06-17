@@ -1,5 +1,6 @@
 package com.peterar;
 
+
 public class AR {
 	public String filename;
 	public String tempstamp;
